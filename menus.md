@@ -14,3 +14,4 @@ What I want to eat
 
 4. soup
 5. potato
+6. ssamjang
