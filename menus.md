@@ -1,4 +1,4 @@
-# EAT
+## Menus
 
 What I want to eat
 
@@ -12,6 +12,6 @@ What I want to eat
 ## food
 
 
-4. rice
-5. pepper
+4. steamed rice
+5. cucumber
 6. ssamjang
