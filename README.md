@@ -21,7 +21,7 @@ $ pip install -r requirements.txt
 ## How to Start
 
 ```Shell
-$ python main.py
+$ python server.py
 ```
 
 ## Features
