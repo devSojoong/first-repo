@@ -1,4 +1,4 @@
-# EAT
+## Menu for lunch
 
 What I want to eat
 
@@ -12,6 +12,6 @@ What I want to eat
 ## food
 
 
-4. rice
-5. pepper
+4. soup
+5. potato
 6. ssamjang
