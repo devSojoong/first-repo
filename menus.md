@@ -1,6 +1,6 @@
-# first -repo
+# EAT
 
-What I want to eat dinner.
+What I want to eat
 
 `<p>Paragraph</p>`
 
@@ -11,6 +11,7 @@ What I want to eat dinner.
 
 ## food
 
-1. gimbap
-2. ramyeon
-3. jjolmyeon
+
+4. rice
+5. pepper
+6. ssamjang
